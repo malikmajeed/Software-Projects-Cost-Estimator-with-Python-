@@ -6,7 +6,33 @@ A web-based application designed to provide accurate cost estimations for softwa
 
 Estimating software project costs is a critical step in project planning and resource allocation. Manual estimation methods are often time-consuming, prone to errors, and lack precision. This project automates the estimation process using regression models, ensuring reliable and accurate predictions while saving time and effort.
 
+------------------------------- How to Start on Your Device ----------------
+# Project Setup Guide
+
+This guide provides step-by-step instructions to set up and run the project locally.
+
 ---
+
+## Step 1: Create a Virtual Environment
+
+A virtual environment helps to manage dependencies for your project. Follow the steps below to create one:
+
+1. Open the Command Prompt (CMD) or Terminal.
+2. Navigate to the root directory of the project:
+ 
+      cd path/to/your/project
+
+3. Create a virtual environment by running:
+        code:    python -m venv venv
+
+## Step 2: Activate the Virtual Environment
+        code: venv\Scripts\activate
+
+## Step 3: Install Dependencies
+        code: pip install -r requirements.txt
+
+
+-----------------------------------------------------------------
 
 ## Target Audience
 
